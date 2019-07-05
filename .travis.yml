@@ -11,4 +11,4 @@ addons:
 
 script:
   - CXX=/usr/bin/g++-8 CC=/usr/bin/gcc-8
-  - CXX main.cc
+  - $CXX main.cc
